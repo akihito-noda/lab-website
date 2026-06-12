@@ -5,9 +5,9 @@ permalink: /publications/
 ---
 
 # Publications
-
+<!--
 業績一覧は `_data/publications.yml` を編集すると更新できます。
-
+-->
 {% assign pubs_by_year = site.data.publications | group_by: "year" | sort: "name" | reverse %}
 {% for year in pubs_by_year %}
 ## {{ year.name }}
