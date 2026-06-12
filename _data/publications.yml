@@ -1,23 +1,259 @@
 - year: 2026
-  type: "journal"
-  authors: "A. Noda, et al."
-  title: "Example paper title on wearable wireless systems"
-  venue: "IEEE Transactions / Journal Name"
-  status: "in preparation"
-  url: ""
-
+  type: presentation
+  authors: 福井, 哲平, 野田, 聡人
+  title: ［依頼講演］ウェアラブルなPT対称無線電力伝送系におけるPWM負荷制御によるEPトラッキング
+  venue: 電子情報通信学会 SRW/MWPTHz 研究会, 東京，NICTイノベーションセンター
+  status: presented
+  url: https://ken.ieice.org/ken/paper/20260604ccvB/
+- year: 2026
+  type: presentation
+  authors: 宮川, 隆誠, 野田, 聡人
+  title: ［依頼講演］導電布伝送路上に配置した無配線IMU群による布のリアルタイム形状推定
+  venue: 電子情報通信学会 SRW/MWPTHz 研究会, 東京，NICTイノベーションセンター
+  status: presented
+  url: https://ken.ieice.org/ken/paper/20260604ScvB/
+- year: 2026
+  type: technical report
+  authors: 宮川 隆誠, 野田 聡人
+  title: 導電布伝送路上に配置した無配線IMU群による布のリアルタイム形状推定
+  venue: 電子情報通信学会, no. SRW2026-4, MWPTHz2026-4, pp. 13–17, 依頼講演
+  status: published
+  url: ''
+- year: 2026
+  type: technical report
+  authors: 福井 哲平, 野田 聡人
+  title: ウェアラブルなPT対称無線電力伝送系におけるPWM負荷制御によるEPトラッキング
+  venue: 電子情報通信学会, no. SRW2026-3, MWPTHz2026-3, pp. 7–12, 依頼講演
+  status: published
+  url: ''
+- year: 2026
+  type: conference
+  authors: Yoshimoto, Takuto, Noda, Akihito
+  title: Demonstration of Distributing Actuators on Conductive Textile for Whole-body Haptic Interactions
+  venue: 2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC), pp. 1-2
+  status: presented
+  url: https://doi.org/10.1109/CCNC65079.2026.11366602
+- year: 2026
+  type: conference
+  authors: Noda, Akihito
+  title: Demonstration of Fabric Deformation Estimation Using a Battery-Free IMU Module Array
+  venue: 2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC), pp. 1-2
+  status: presented
+  url: https://doi.org/10.1109/CCNC65079.2026.11366564
 - year: 2025
-  type: "journal"
-  authors: "A. Noda, et al."
-  title: "Example paper title on RFID-based sensing"
-  venue: "IEICE Communications Express"
-  status: "published"
-  url: ""
-
+  type: conference
+  authors: 髙木, 康陽, 野田, 聡人
+  title: 人体表面伝送を想定した2.4GHz帯メタマテリアル導波路および近接カプラ
+  venue: 第26回システムインテグレーション部門講演会（SI2025）, pp. 4484–4488, 3D3-18，広島国際会議場，広島市，2025年12月10日–12日
+  status: presented
+  url: ''
 - year: 2025
-  type: "conference"
-  authors: "A. Noda, et al."
-  title: "Example conference paper title"
-  venue: "International Conference Name"
-  status: "presented"
-  url: ""
+  type: conference
+  authors: 前田, 凜空, 野田, 聡人
+  title: 衣服上に分布したバッテリレスセンサ用の13.56MHz帯近接通信
+  venue: 第26回システムインテグレーション部門講演会（SI2025）, pp. 4438–4443, 3D3-08，広島国際会議場，広島市，2025年12月10日–12日
+  status: presented
+  url: ''
+- year: 2025
+  type: conference
+  authors: 久家, 大輝, 野田, 聡人
+  title: ウェアラブル二次元通信を用いた電力集約における同期制御による集約効率の向上
+  venue: 第26回システムインテグレーション部門講演会（SI2025）, pp. 4424–4428, 3D3-05，広島国際会議場，広島市，2025年12月10日–12日
+  status: presented
+  url: ''
+- year: 2025
+  type: conference
+  authors: 大貫, 亜美理, 野田, 聡人
+  title: 導電布上のセンサネットワークによる体表面温度分布計測
+  venue: 2025年電子情報通信学会ソサイエティ大会講演論文集, pp. 262, B-18-07, Body surface temperature distribution measurement with sensor network on conductive textile
+  status: presented
+  url: ''
+- year: 2025
+  type: conference
+  authors: 前田, 凜空, 野田, 聡人
+  title: 近接ワイヤレスウェアラブルセンサ向け簡易ソフトウェア無線機
+  venue: 2025年電子情報通信学会ソサイエティ大会講演論文集, pp. 261, B-18-06, Software-defined radio hardware for near-field wireless wearable sensors
+  status: presented
+  url: ''
+- year: 2025
+  type: journal
+  authors: 高橋 亮（東京大学）Li Yifan（東京大学）福本 雅朗（Microsoft）Mohamed Kari（Princeton University）山本 英昂（東京大学）野田 聡人（高知工科大学）石田 繁巳（公立はこだて未来大学）横田 知之（東京大学）染谷 隆夫（東京大学）川原 圭博（東京大学）
+  title: 超低電力な指輪型無線マウス
+  venue: 情報処理学会ユビキタスコンピューティングシステム研究会
+  status: published
+  url: ''
+- year: 2025
+  type: conference
+  authors: Li, Yifan, Fukumoto, Masaaki, Kari, Mohamed, Ishida, Shigemi, Noda, Akihito, Yokota, Tomoyuki, Someya, Takao, Kawahara, Yoshihiro, Takahashi, Ryo
+  title: Ultra-low-power ring-based wireless tinymouse
+  venue: Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology
+  status: presented
+  url: https://doi.org/10.1145/3746059.3747615
+- year: 2025
+  type: conference
+  authors: Yoshimoto, Takuto, Noda, Akihito
+  title: Demonstration of Power and FM Wave Transfer on Conductive Textile for Distributed Actuators
+  venue: 2025 IEEE World Haptics Conference (WHC), Hands-On Demo D1-08
+  status: presented
+  url: ''
+- year: 2025
+  type: technical report
+  authors: 福井, 哲平, 野田, 聡人
+  title: ウェアラブルなPT対称無線電力伝送系における最適負荷Q値
+  venue: 電子情報通信学会, no. SRW2025-1, MWPTHz2025-1, pp. 1–6, SRW/MWPTHz 研究会，東京，機械振興会館
+  status: published
+  url: https://ken.ieice.org/ken/paper/20250613ucKx/
+- year: 2025
+  type: technical report
+  authors: 宮川, 隆誠, 野田, 聡人
+  title: 導電布伝送路で接続した格子配置IMUによる三次元形状計測
+  venue: 電子情報通信学会, no. SRW2025-2, MWPTHz2025-2, pp. 7–11, SRW/MWPTHz 研究会，東京，機械振興会館
+  status: published
+  url: https://ken.ieice.org/ken/paper/202506130cKY/
+- year: 2025
+  type: technical report
+  authors: 野田, 聡人
+  title: ウェアラブルMIMO：身体表面分散アンテナによるチャネル容量の向上
+  venue: 電子情報通信学会, no. SRW2024-61, pp. 28–32, RCS/SR/SRW 研究会，京都，京都工芸繊維大学
+  status: published
+  url: https://ken.ieice.org/ken/paper/202503057cJq/
+- year: 2025
+  type: journal
+  authors: Yoshimoto, Takuto, Noda, Akihito
+  title: Multi-Carrier FM Transmitter for Distributed Vibrators on Conductive Textile
+  venue: IEICE Communications Express, vol. 14, no. 4, pp. 159-162
+  status: published
+  url: https://doi.org/10.23919/comex.2024XBL0213
+- year: 2025
+  type: journal
+  authors: Noda, Akihito
+  title: Three-Axis Coil Array for Null-Free Near-Field Tag Reading with UHF RFID
+  venue: IEICE Communications Express, vol. 14, no. 2, pp. 55-58
+  status: published
+  url: https://doi.org/10.23919/comex.2024XBL0178
+- year: 2025
+  type: conference
+  authors: Noda, Akihito
+  title: Demonstration of Asynchronous Serial Communication to Batteryless Modules on Conductive Textile
+  venue: 2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC), pp. 1-2
+  status: presented
+  url: https://doi.org/10.1109/CCNC54725.2025.10976125
+- year: 2024
+  type: presentation
+  authors: 高橋, 亮, 野田, 聡人, 雪田, 和歌子, 韓, 燦教, 横田, 知之, 染谷, 隆夫, 川原, 圭博
+  title: ［ポスター講演］医療デジタルツインの実現に向けた全身無線通信・給電服の設計
+  venue: 電子情報通信学会 HCL 研究会, 山梨，富士山科学研究ホール
+  status: presented
+  url: https://ken.ieice.org/ken/paper/20241121vc70/
+- year: 2024
+  type: presentation
+  authors: 高橋, 亮, 野田, 聡人, 韓, 燦教, 横田, 知之, 染谷, 隆夫, 川原, 圭博
+  title: ［ポスター講演］医療デジタルツインの実現に向けた全身無線通信・給電服の設計
+  venue: 電子情報通信学会 RISING 研究会, 北海道，北海道立道民活動センター かでる2・7
+  status: presented
+  url: https://ken.ieice.org/ken/paper/20241112Tc5b/
+- year: 2024
+  type: presentation
+  authors: 高橋, 亮, 野田, 聡人, 韓, 燦教, 横田, 知之, 染谷, 隆夫, 川原, 圭博
+  title: ［ポスター講演］医療デジタルツインの実現に向けた全身無線通信・給電服の設計
+  venue: 電子情報通信学会 MIKA 研究会, 岡山，岡山コンベンションセンター
+  status: presented
+  url: https://ken.ieice.org/ken/paper/20241029Ec51/
+- year: 2024
+  type: technical report
+  authors: 野田, 聡人, 杉浦, 準哉
+  title: 負性容量を用いた導電テキスタイル二次元通信の大面積化
+  venue: 電子情報通信学会, no. SRW2023-50, pp. 30–32, RCS/SR/SRW 研究会，東京，東京大学本郷キャンパス
+  status: published
+  url: https://ken.ieice.org/ken/paper/202403130c1D/
+- year: 2024
+  type: technical report
+  authors: 野田, 聡人
+  title: ［ショートペーパー］導電テキスタイル上の交流結合パルス伝送の波形不変条件
+  venue: 電子情報通信学会, no. SRW2023-38, pp. 1, SRW 研究会，東京，機械振興会館
+  status: published
+  url: https://ken.ieice.org/ken/paper/20240115Mc0F/
+- year: 2024
+  type: conference
+  authors: Noda, Akihito
+  title: Underwater Large-Area Non-Contact Power Transfer Using Two-Dimensional Waveguide
+  venue: 2024 IEEE 21st Consumer Communications & Networking Conference (CCNC), pp. 1084-1085
+  status: presented
+  url: https://doi.org/10.1109/CCNC51664.2024.10454898
+- year: 2023
+  type: technical report
+  authors: 野田, 聡人
+  title: ［ショートペーパー］フレキシブルコイル間のParity-Time対称ワイヤレス電力伝送
+  venue: 電子情報通信学会, no. SRW2023-35, pp. 32, SRW/SeMI 研究会，東京，東京農工大小金井キャンパス
+  status: published
+  url: https://ken.ieice.org/ken/paper/20231122kCZF/
+- year: 2023
+  type: technical report
+  authors: 野田, 聡人
+  title: ［招待講演］両面導電媒体による二次元通信：直流・パルス・マイクロ波の伝送と応用
+  venue: 電子情報通信学会, no. MW2023-83, pp. 15, MW/AP 研究会，高知，高知城歴史博物館
+  status: published
+  url: https://ken.ieice.org/ken/paper/20230928hCwN/
+- year: 2023
+  type: technical report
+  authors: 野田, 聡人
+  title: 導電布伝送路上での容量結合型シリアル通信
+  venue: 電子情報通信学会, no. SRW2023-6, pp. 31–32, SRW 研究会，東京，機械振興会館
+  status: published
+  url: https://ken.ieice.org/ken/paper/20230612hCV4/
+- year: 2023
+  type: technical report
+  authors: 野田, 聡人
+  title: ［ショートペーパー］UHF帯RFID微小タグの応答性評価
+  venue: 電子情報通信学会, no. SRW2022-38, pp. 19, SRW 研究会，東京，機械振興会館
+  status: published
+  url: https://ken.ieice.org/ken/paper/20230116iCqJ/
+- year: 2022
+  type: conference
+  authors: 野田 聡人
+  title: 導電布二次元伝送路上での多チャンネルアナログ波形の送信
+  venue: 第23回計測自動制御学会システムインテグレーション部門講演会論文集
+  status: presented
+  url: ''
+- year: 2022
+  type: technical report
+  authors: 野田, 聡人
+  title: 導電布伝送路上でのアナログ波形の多チャンネル同時送信
+  venue: 電子情報通信学会, no. SRW2022-19, pp. 19–22, SRW/SeMI/CNR 研究会，栃木，ホテルエピナール那須
+  status: published
+  url: https://ken.ieice.org/ken/paper/20221124KCOR/
+- year: 2022
+  type: technical report
+  authors: 野田, 聡人
+  title: ［ショートペーパー］送信キャリア周波数の変動に追従するFMレシーバ
+  venue: 電子情報通信学会, no. SRW2022-8, pp. 1, SRW 研究会，オンライン開催
+  status: published
+  url: https://ken.ieice.org/ken/paper/20220822pCM4/
+- year: 2022
+  type: technical report
+  authors: 野田, 聡人
+  title: ［ショートペーパー］導電布を用いた柔軟タッチインタフェース
+  venue: 電子情報通信学会, no. SRW2022-3, pp. 10, SRW 研究会，東京，機械振興会館
+  status: published
+  url: https://ken.ieice.org/ken/paper/20220620lCkI/
+- year: 2022
+  type: technical report
+  authors: 野田, 聡人, 清水, 宥貴, 竹元, 豊
+  title: ［ショートペーパー］フレキシブルコイルを介した柔軟物表面での無線電力伝送
+  venue: 電子情報通信学会, no. SRW2021-91, pp. 100, RCS/SR/SRW 研究会，オンライン開催
+  status: published
+  url: https://ken.ieice.org/ken/paper/202203045CjJ/
+- year: 2022
+  type: patent
+  authors: 野田 聡人,清水 宥貴
+  title: ウエアラブル非接触給電システム
+  venue: 特願2022-055800
+  status: filed
+  url: ''
+- year: 2022
+  type: technical report
+  authors: 野田, 聡人
+  title: ［ショートペーパー］ウェアラブル触覚呈示スーツのための柔軟二次元伝送路上での振動波形の多チャンネルアナログ伝送
+  venue: 電子情報通信学会, no. SRW2021-59, pp. 28, SRW 研究会，オンライン開催
+  status: published
+  url: https://ken.ieice.org/ken/paper/20220117LCha/
