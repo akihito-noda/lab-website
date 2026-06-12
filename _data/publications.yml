@@ -142,6 +142,14 @@
   status: "presented"
   url: "https://doi.org/10.1109/CCNC54725.2025.10976125"
 
+- year: 2025
+  type: "journal"
+  authors: "Akihito Noda"
+  title: "Augmented MIMO: Body-Mounted Antennas for Tiny Wearable Devices"
+  venue: "Applied Sciences, vol. 15, no. 2, article no. 557"
+  status: "published"
+  url: "https://doi.org/10.3390/app15020557"
+  
 # - year: 2024
 #   type: "presentation"
 #   authors: "高橋 亮, 野田 聡人, 雪田 和歌子, 韓 燦教, 横田 知之, 染谷 隆夫, 川原 圭博"
