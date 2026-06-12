@@ -6,10 +6,10 @@ faculty:
       のだドットあきひと＠kochi-tech.ac.jp  
       ※ひらがな部分はローマ字で，ドットは「.」です．
     profile_url: "https://www.kochi-tech.ac.jp/profile/ja/noda-akihito.html"
-    interests:
-      - "無線通信"
-      - "ウェアラブルエレクトロニクス"
-      - "センサネットワーク"
+    # interests:
+    #   - "無線通信"
+    #   - "ウェアラブルエレクトロニクス"
+    #   - "センサネットワーク"
 
 students:
   - degree: "修士"
