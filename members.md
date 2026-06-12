@@ -25,7 +25,7 @@ permalink: /members/
   {% endif %}
 
   {% if person.role %}
-  <p><strong>{{ person.role }}</strong></p>
+  <p>{{ person.role }}</p>
   {% endif %}
 
   {% if person.email %}
@@ -34,7 +34,7 @@ permalink: /members/
 
   {% if person.interests %}
   <p>
-    <strong>Research interests:</strong>
+    Research interests:
     {{ person.interests | join: " / " }}
   </p>
   {% endif %}
