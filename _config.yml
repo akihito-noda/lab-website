@@ -8,8 +8,8 @@ timezone: Asia/Tokyo
 # set baseurl: "/lab-website-template"
 # If you publish at https://username.github.io/,
 # set baseurl: ""
-baseurl: ""
-url: ""
+baseurl: "/lab-website"
+url: "https://akihito-noda.github.io/lab-website/"
 
 # Build settings
 markdown: kramdown
