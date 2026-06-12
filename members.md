@@ -29,7 +29,7 @@ permalink: /members/
   {% endif %}
 
   {% if person.email %}
-  <p>Email: <a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
+  <p>Email: {{ person.email }}</p>
   {% endif %}
 
   {% if person.interests %}
