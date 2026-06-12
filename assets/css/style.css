@@ -151,3 +151,20 @@ a { color: var(--link); }
   .site-nav { justify-content: flex-start; }
   .hero { padding: 36px 22px; }
 }
+
+.member-table {
+  border-collapse: collapse;
+}
+
+.member-table th,
+.member-table td {
+  padding: 0.4rem 1.2rem 0.4rem 0;
+  text-align: left;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+.member-table th:last-child,
+.member-table td:last-child {
+  padding-right: 0;
+}
