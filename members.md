@@ -8,23 +8,38 @@ permalink: /members/
 
 ## Faculty
 
-<ul class="member-list">
-{% for m in site.data.members.faculty %}
-  <li>
-    <strong>{% if m.url %}<a href="{{ m.url }}">{{ m.name }}</a>{% else %}{{ m.name }}{% endif %}</strong>{% if m.name_en %} / {{ m.name_en }}{% endif %}<br>
-    <span class="meta">{{ m.role }}</span><br>
-    {% if m.email %}<span class="meta">Email: {{ m.email }}</span><br>{% endif %}
+{% for person in site.data.members.faculty %}
+<div class="member-card">
+  <h3>
     {% if person.profile_url %}
-<p>
-  <a href="{{ person.profile_url }}" target="_blank" rel="noopener">
-    University profile
-  </a>
-</p>
-{% endif %}
-    {% for tag in m.interests %}<span class="tag">{{ tag }}</span>{% endfor %}
-  </li>
+      <a href="{{ person.profile_url }}" target="_blank" rel="noopener">
+        {{ person.name }}
+      </a>
+    {% else %}
+      {{ person.name }}
+    {% endif %}
+  </h3>
+
+  {% if person.name_en %}
+  <p class="muted">{{ person.name_en }}</p>
+  {% endif %}
+
+  {% if person.role %}
+  <p><strong>{{ person.role }}</strong></p>
+  {% endif %}
+
+  {% if person.email %}
+  <p>Email: <a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
+  {% endif %}
+
+  {% if person.interests %}
+  <p>
+    <strong>Research interests:</strong>
+    {{ person.interests | join: " / " }}
+  </p>
+  {% endif %}
+</div>
 {% endfor %}
-</ul>
 
 ## Students
 <!-- 
