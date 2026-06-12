@@ -1,11 +1,11 @@
-- title: "Wearable Electronics and Conductive Textiles"
-  title_ja: "ウェアラブルエレクトロニクスと導電布"
+- title: "Wearable Two-dimensional Communication/Power Transfer"
+  title_ja: "ウェアラブル二次元通信・給電"
   description: "導電布や柔軟材料を用いて、衣服上での給電・通信・センシングを実現する研究を行っています。"
 
 - title: "Wireless Communication and Sensing"
   title_ja: "無線通信・無線センシング"
-  description: "RFID、UWB、Wi-Fiなどを用いた測位、センシング、通信品質評価に取り組んでいます。"
+  description: "RFID、NFC、Wi-Fiなどを用いたセンシングに取り組んでいます。"
 
-- title: "Smart Radio Environment / RIS"
+- title: "Smart Radio Environment / Reconfigurable Intelligent Surface"
   title_ja: "スマート電波環境・RIS"
-  description: "反射面や環境側の制御によって、屋内・都市環境の無線通信品質を改善する技術を研究しています。"
+  description: "ウェアラブルなアンテナシステムと協調するスマート電波環境の制御技術を研究しています。"
