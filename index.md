@@ -4,7 +4,7 @@ title: Home
 ---
 
 <section class="hero">
-  <h1>Wireless, Wearable, and Sensing Systems</h1>
+  <h1>Ubiquitous Imperceptible Electronics Laboratory</h1>
   <p>
     私たちの研究室では、無線通信、ウェアラブルエレクトロニクス、導電布、RFID/UWBセンシング、
     スマート電波環境などを対象に、デバイス開発から通信・計測システム評価まで一体的に研究しています。
@@ -40,5 +40,5 @@ title: Home
 
 ## For Prospective Students
 
-本研究室では、実際に動作するハードウェア・システムを作り、測定し、論文として説明できる形にまとめることを重視しています。
+本研究室では、実際に動作するハードウェア・システムを作りあげ、評価し、論文として説明できる形にまとめることを重視しています。
 研究室配属を希望する学生は、[配属希望者向けページ]({{ '/for-students/' | relative_url }})も確認してください。
