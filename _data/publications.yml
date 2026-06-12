@@ -1,0 +1,23 @@
+- year: 2026
+  type: "journal"
+  authors: "A. Noda, et al."
+  title: "Example paper title on wearable wireless systems"
+  venue: "IEEE Transactions / Journal Name"
+  status: "in preparation"
+  url: ""
+
+- year: 2025
+  type: "journal"
+  authors: "A. Noda, et al."
+  title: "Example paper title on RFID-based sensing"
+  venue: "IEICE Communications Express"
+  status: "published"
+  url: ""
+
+- year: 2025
+  type: "conference"
+  authors: "A. Noda, et al."
+  title: "Example conference paper title"
+  venue: "International Conference Name"
+  status: "presented"
+  url: ""

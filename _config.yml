@@ -1,0 +1,36 @@
+title: "Noda Laboratory"
+description: "Wearable electronics, wireless communication, sensing systems"
+lang: ja
+timezone: Asia/Tokyo
+
+# GitHub Pages settings
+# If you publish at https://username.github.io/lab-website-template/,
+# set baseurl: "/lab-website-template"
+# If you publish at https://username.github.io/,
+# set baseurl: ""
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+permalink: /news/:year/:month/:day/:title/
+
+# Site navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Members"
+    url: "/members/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "For Students"
+    url: "/for-students/"
+  - title: "Access"
+    url: "/access/"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
