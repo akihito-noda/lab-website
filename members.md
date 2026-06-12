@@ -20,8 +20,9 @@ permalink: /members/
 </ul>
 
 ## Students
-
+<!-- 
 <p>学生については、個人名を掲載せず、課程・学年ごとの人数のみを掲載しています。</p>
+-->
 
 <table>
   <thead>
@@ -47,8 +48,9 @@ permalink: /members/
 </table>
 
 ## Alumni
-
+<!-- 
 <p>卒業生についても、個人名ではなく、年度ごとの修了・卒業人数を掲載しています。</p>
+-->
 
 <table>
   <thead>
