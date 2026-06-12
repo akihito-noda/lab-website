@@ -2,7 +2,11 @@ faculty:
   - name: "野田 聡人"
     name_en: "Akihito Noda"
     role: "准教授"
-    email: ""
+    email: 
+      メールでご連絡いただく場合は
+      のだドットあきひと＠kochi-tech.ac.jp
+      までお願いいたします．
+      ※ひらがな部分はローマ字で，ドットは「.」です．
     interests:
       - "無線通信"
       - "ウェアラブルエレクトロニクス"
