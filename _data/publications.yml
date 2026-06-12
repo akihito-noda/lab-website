@@ -1,7 +1,7 @@
 - year: 2026
   type: "technical report"
   authors: "福井 哲平, 野田 聡人"
-  title: "ウェアラブルなPT対称無線電力伝送系におけるPWM負荷制御によるEPトラッキング"
+  title: "［依頼講演］ウェアラブルなPT対称無線電力伝送系におけるPWM負荷制御によるEPトラッキング"
   venue: "電子情報通信学会, no. SRW2026-3, MWPTHz2026-3, pp. 7–12, SRW/MWPTHz 研究会，東京，NICTイノベーションセンター，依頼講演"
   status: "published"
   url: "https://ken.ieice.org/ken/paper/20260604ccvB/"
@@ -9,7 +9,7 @@
 - year: 2026
   type: "technical report"
   authors: "宮川 隆誠, 野田 聡人"
-  title: "導電布伝送路上に配置した無配線IMU群による布のリアルタイム形状推定"
+  title: "［依頼講演］導電布伝送路上に配置した無配線IMU群による布のリアルタイム形状推定"
   venue: "電子情報通信学会, no. SRW2026-4, MWPTHz2026-4, pp. 13–17, SRW/MWPTHz 研究会，東京，NICTイノベーションセンター，依頼講演"
   status: "published"
   url: "https://ken.ieice.org/ken/paper/20260604ScvB/"
