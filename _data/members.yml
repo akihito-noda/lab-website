@@ -3,9 +3,7 @@ faculty:
     name_en: "Akihito Noda"
     role: "准教授"
     email: 
-      メールでご連絡いただく場合は
-      のだドットあきひと＠kochi-tech.ac.jp
-      までお願いいたします．
+      のだドットあきひと＠kochi-tech.ac.jp  
       ※ひらがな部分はローマ字で，ドットは「.」です．
     interests:
       - "無線通信"
