@@ -46,6 +46,7 @@ permalink: /members/
 {% endfor %}
   </tbody>
 </table>
+<p>※学士課程については今年度卒業研究を履修している人数を掲載しています。</p>
 
 ## Alumni
 <!-- 
