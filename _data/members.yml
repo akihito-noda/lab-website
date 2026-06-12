@@ -16,7 +16,7 @@ students:
       - year: "M2"
         count: 4
       - year: "M1"
-        count: 3
+        count: 2
   - degree: "学士"
     grades:
       - year: "B4"
