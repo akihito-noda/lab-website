@@ -1,29 +1,31 @@
-- name: "野田 明仁"
-  name_en: "Akihito Noda"
-  role: "准教授"
-  group: "faculty"
-  email: "noda.akihito@example.ac.jp"
-  interests:
-    - "無線通信"
-    - "ウェアラブルエレクトロニクス"
-    - "センサネットワーク"
-  url: ""
+faculty:
+  - name: "野田 聡人"
+    name_en: "Akihito Noda"
+    role: "准教授"
+    email: "noda.akihito@example.ac.jp"
+    interests:
+      - "無線通信"
+      - "ウェアラブルエレクトロニクス"
+      - "センサネットワーク"
 
-- name: "学生 A"
-  role: "M2"
-  group: "students"
-  interests:
-    - "導電布センサ"
-    - "信号計測"
+students:
+  - degree: "修士"
+    grades:
+      - year: "M2"
+        count: 4
+      - year: "M1"
+        count: 3
+  - degree: "学士"
+    grades:
+      - year: "B4"
+        count: 3
 
-- name: "学生 B"
-  role: "M1"
-  group: "students"
-  interests:
-    - "UWB測位"
-    - "RFID"
-
-- name: "卒業生 C"
-  role: "Alumni"
-  group: "alumni"
-  year: 2025
+alumni:
+  - fiscal_year: 2025
+    counts:
+      - degree: "修士"
+        count: 2
+  - fiscal_year: 2023
+    counts:
+      - degree: "学士"
+        count: 1
