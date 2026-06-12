@@ -70,13 +70,13 @@
   status: "presented"
   url: ""
 
-- year: 2025
-  type: "journal"
-  authors: "高橋 亮, Li Yifan, 福本 雅朗, Mohamed Kari, 山本 英昂, 野田 聡人, 石田 繁巳, 横田 知之, 染谷 隆夫, 川原 圭博"
-  title: "超低電力な指輪型無線マウス"
-  venue: "情報処理学会ユビキタスコンピューティングシステム研究会"
-  status: "published"
-  url: ""
+# - year: 2025
+#   type: "journal"
+#   authors: "高橋 亮, Li Yifan, 福本 雅朗, Mohamed Kari, 山本 英昂, 野田 聡人, 石田 繁巳, 横田 知之, 染谷 隆夫, 川原 圭博"
+#   title: "超低電力な指輪型無線マウス"
+#   venue: "情報処理学会ユビキタスコンピューティングシステム研究会"
+#   status: "published"
+#   url: ""
 
 # - year: 2025
 #   type: "conference"
