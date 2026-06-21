@@ -257,3 +257,14 @@ a { color: var(--link); }
   border-radius: 6px;
   background: #eee;
 }
+
+/* Research topic media */
+.research-media {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+  background: #eee;
+}
