@@ -199,3 +199,11 @@ a { color: var(--link); }
   margin-top: 0.7rem;
   line-height: 1.7;
 }
+
+.news-more {
+  margin-top: 1rem;
+}
+
+.news-more a {
+  font-weight: 600;
+}
