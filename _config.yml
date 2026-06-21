@@ -25,6 +25,8 @@ nav:
     url: "/members/"
   - title: "Publications"
     url: "/publications/"
+  - title: News
+    url: /news/
   - title: "For Students"
     url: "/for-students/"
   - title: "Access"
