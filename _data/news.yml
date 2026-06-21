@@ -1,14 +1,20 @@
 - date: 2026-06-19
   title: "学生1名が東京大学柏キャンパスでCRONOS横田グループ合宿（6/15～19）に参加"
-
+  image: "/assets/images/news/20260619Kashiwa.jpg"
+  image_alt: "東京大学柏キャンパスにて"
+  
 - date: 2026-06-12
   title: "学生２名が2025年度の優秀学生賞を受賞＠電子情報通信学会短距離無線通信（SRW）研究会"
   url: "https://www.kochi-tech.ac.jp/news/2026/007042.html"
-
+  image: "/assets/images/news/SRW2025StudentAward.jpg"
+  image_alt: "優秀学生賞を受賞したM2宮川さん，M2福井さん"
+  
 - date: 2026-03-31
   title: "学生３名が優秀講演賞を受賞＠第26回計測自動制御学会システムインテグレーション部門講演会（2025/12/10～12，広島）"
   url: "https://www.kochi-tech.ac.jp/news/2026/006973.html"
-
+  image: "/assets/images/news/SI2025PresentationAward.jpg"
+  image_alt: "優秀講演賞を受賞したM1高木さん，B4前田さん，M1久家さん"
+  
 - date: 2026-01-22
   title: "野田准教授がBest Demo Awardを受賞＠IEEE Consumer Communications & Networking Conference 2026（2026/1/9～12，Las Vegas）"
   url: "https://www.kochi-tech.ac.jp/news/2026/006922.html"
