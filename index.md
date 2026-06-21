@@ -29,7 +29,7 @@ title: Home
 {% for item in site.data.news limit:5 %}
   <li>
     <div class="meta">{{ item.date }}</div>
-    {% if item.url != "" %}
+    {% if item.url and item.url != "" %}
       <a href="{{ item.url }}">{{ item.title }}</a>
     {% else %}
       {{ item.title }}
@@ -37,6 +37,11 @@ title: Home
   </li>
 {% endfor %}
 </ul>
+
+<p class="news-more">
+  <a href="{{ '/news/' | relative_url }}">View all news →</a>
+</p>
+
 
 ## For Prospective Students
 
