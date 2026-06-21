@@ -207,3 +207,42 @@ a { color: var(--link); }
 .news-more a {
   font-weight: 600;
 }
+
+/* News thumbnails on the top page */
+.news-list-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.news-thumb-wrap {
+  flex: 0 0 auto;
+}
+
+.news-thumb {
+  display: block;
+  width: 120px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.news-list-text {
+  min-width: 0;
+}
+
+.news-more {
+  margin-top: 1rem;
+}
+
+@media (max-width: 600px) {
+  .news-thumb {
+    width: 90px;
+    height: 60px;
+  }
+
+  .news-list-item {
+    gap: 0.75rem;
+  }
+}
