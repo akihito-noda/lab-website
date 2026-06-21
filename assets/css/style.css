@@ -268,3 +268,24 @@ a { color: var(--link); }
   border-radius: 6px;
   background: #eee;
 }
+
+/* Research page */
+.research-section {
+  margin-bottom: 3rem;
+}
+
+.research-page-media {
+  display: block;
+  width: 100%;
+  max-width: 800px;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  margin: 1rem 0 1.25rem;
+  border-radius: 6px;
+  background: #eee;
+}
+
+video.research-page-media {
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
