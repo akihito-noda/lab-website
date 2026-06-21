@@ -10,7 +10,6 @@ permalink: /news/
 {% for item in site.data.news %}
   <li class="news-item">
 
-```
 <div class="meta">{{ item.date }}</div>
 
 <div class="news-title">
@@ -42,7 +41,6 @@ permalink: /news/
     {{ item.description }}
   </div>
 {% endif %}
-```
 
   </li>
 {% endfor %}
