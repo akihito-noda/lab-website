@@ -20,7 +20,7 @@ title: Home
 
 {% if item.video %}
   <video
-    class="research-video"
+    class="research-media"
     autoplay
     muted
     loop
@@ -30,6 +30,13 @@ title: Home
     <source src="{{ item.video | relative_url }}" type="video/mp4">
     お使いのブラウザは動画表示に対応していません。
   </video>
+
+{% elsif item.image %}
+  <img
+    src="{{ item.image | relative_url }}"
+    alt="{{ item.image_alt | default: item.title_ja }}"
+    class="research-media">
+
 {% endif %}
 
 <h3>{{ item.title_ja }}</h3>
@@ -38,6 +45,7 @@ title: Home
   </section>
 {% endfor %}
 </div>
+
 
 
 ## News
