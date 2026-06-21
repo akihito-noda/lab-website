@@ -17,11 +17,28 @@ title: Home
 <div class="grid">
 {% for item in site.data.research %}
   <section class="card">
-    <h3>{{ item.title_ja }}</h3>
-    <p>{{ item.description }}</p>
+
+{% if item.video %}
+  <video
+    class="research-video"
+    autoplay
+    muted
+    loop
+    playsinline
+    preload="metadata"
+    aria-label="{{ item.title_ja }}の研究紹介動画">
+    <source src="{{ item.video | relative_url }}" type="video/mp4">
+    お使いのブラウザは動画表示に対応していません。
+  </video>
+{% endif %}
+
+<h3>{{ item.title_ja }}</h3>
+<p>{{ item.description }}</p>
+
   </section>
 {% endfor %}
 </div>
+
 
 ## News
 
