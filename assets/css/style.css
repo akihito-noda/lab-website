@@ -168,3 +168,34 @@ a { color: var(--link); }
 .member-table td:last-child {
   padding-right: 0;
 }
+
+/* News page */
+.news-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.news-item {
+  margin-bottom: 2.5rem;
+}
+
+.news-title {
+  margin-top: 0.2rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.news-image {
+  display: block;
+  width: 100%;
+  max-width: 640px;
+  height: auto;
+  margin-top: 0.8rem;
+  border-radius: 6px;
+}
+
+.news-description {
+  max-width: 640px;
+  margin-top: 0.7rem;
+  line-height: 1.7;
+}
