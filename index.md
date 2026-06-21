@@ -29,7 +29,6 @@ title: Home
 {% for item in site.data.news limit:5 %}
   <li class="news-list-item">
 
-```
 {% if item.image %}
   <div class="news-thumb-wrap">
     {% if item.url and item.url != "" %}
@@ -57,7 +56,6 @@ title: Home
     {{ item.title }}
   {% endif %}
 </div>
-```
 
   </li>
 {% endfor %}
