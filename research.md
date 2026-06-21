@@ -10,7 +10,7 @@ permalink: /research/
 
 {% for item in site.data.research %}
 
-<section class="research-section">
+<section class="research-section" markdown="1">
 
 ## {{ item.title_ja }}
 
