@@ -27,13 +27,38 @@ title: Home
 
 <ul class="news-list">
 {% for item in site.data.news limit:5 %}
-  <li>
-    <div class="meta">{{ item.date }}</div>
+  <li class="news-list-item">
+
+```
+{% if item.image %}
+  <div class="news-thumb-wrap">
     {% if item.url and item.url != "" %}
-      <a href="{{ item.url }}">{{ item.title }}</a>
+      <a href="{{ item.url }}">
+        <img
+          src="{{ item.image | relative_url }}"
+          alt="{{ item.image_alt | default: item.title }}"
+          class="news-thumb">
+      </a>
     {% else %}
-      {{ item.title }}
+      <img
+        src="{{ item.image | relative_url }}"
+        alt="{{ item.image_alt | default: item.title }}"
+        class="news-thumb">
     {% endif %}
+  </div>
+{% endif %}
+
+<div class="news-list-text">
+  <div class="meta">{{ item.date }}</div>
+
+  {% if item.url and item.url != "" %}
+    <a href="{{ item.url }}">{{ item.title }}</a>
+  {% else %}
+    {{ item.title }}
+  {% endif %}
+</div>
+```
+
   </li>
 {% endfor %}
 </ul>
