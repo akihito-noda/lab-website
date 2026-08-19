@@ -1,4 +1,11 @@
 - year: 2026
+  type: "conference"
+  authors: "Teppei Fukui, Akihito Noda"
+  title: "Near-Exceptional-Point Operation via PWM Load Switching in a PT-Symmetry-Based Wearable WPT"
+  venue: "2026 IEEE Wireless Power Technology Conference and Expo (WPTCE), pp. 1–6"
+  status: "presented"
+
+- year: 2026
   type: "technical report"
   authors: "福井 哲平, 野田 聡人"
   title: "［依頼講演］ウェアラブルなPT対称無線電力伝送系におけるPWM負荷制御によるEPトラッキング"
