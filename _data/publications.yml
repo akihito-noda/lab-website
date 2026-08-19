@@ -2,7 +2,7 @@
   type: "conference"
   authors: "Teppei Fukui, Akihito Noda"
   title: "Near-Exceptional-Point Operation via PWM Load Switching in a PT-Symmetry-Based Wearable WPT"
-  venue: "2026 IEEE Wireless Power Technology Conference and Expo (WPTCE), pp. 1–6"
+  venue: "2026 IEEE Wireless Power Technology Conference and Expo (WPTCE), pp. 1–6, Dalhousie University, Halifax, Nova Scotia, Canada, July 6–9, 2026"
   status: "presented"
 
 - year: 2026
@@ -25,7 +25,7 @@
   type: "conference"
   authors: "Akihito Noda"
   title: "Demonstration of Fabric Deformation Estimation Using a Battery-Free IMU Module Array"
-  venue: "2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC), pp. 1–2"
+  venue: "2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC), pp. 1–2, Flamingo Las Vegas, Las Vegas, NV, USA, January 9–12, 2026"
   status: "presented"
   url: "https://doi.org/10.1109/CCNC65079.2026.11366564"
 
@@ -33,7 +33,7 @@
   type: "conference"
   authors: "Takuto Yoshimoto, Akihito Noda"
   title: "Demonstration of Distributing Actuators on Conductive Textile for Whole-body Haptic Interactions"
-  venue: "2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC), pp. 1–2"
+  venue: "2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC), pp. 1–2, Flamingo Las Vegas, Las Vegas, NV, USA, January 9–12, 2026"
   status: "presented"
   url: "https://doi.org/10.1109/CCNC65079.2026.11366602"
 
@@ -65,7 +65,7 @@
   type: "conference"
   authors: "大貫 亜美理, 野田 聡人"
   title: "導電布上のセンサネットワークによる体表面温度分布計測"
-  venue: "2025年電子情報通信学会ソサイエティ大会講演論文集, B-18-07, p. 262"
+  venue: "2025年電子情報通信学会ソサイエティ大会講演論文集, B-18-07, p. 262，岡山大学津島キャンパス，岡山市，2025年9月9日–12日"
   status: "presented"
   url: ""
 
@@ -73,7 +73,7 @@
   type: "conference"
   authors: "前田 凜空, 野田 聡人"
   title: "近接ワイヤレスウェアラブルセンサ向け簡易ソフトウェア無線機"
-  venue: "2025年電子情報通信学会ソサイエティ大会講演論文集, B-18-06, p. 261"
+  venue: "2025年電子情報通信学会ソサイエティ大会講演論文集, B-18-06, p. 261，岡山大学津島キャンパス，岡山市，2025年9月9日–12日"
   status: "presented"
   url: ""
 
@@ -97,7 +97,7 @@
   type: "conference"
   authors: "Takuto Yoshimoto, Akihito Noda"
   title: "Demonstration of Power and FM Wave Transfer on Conductive Textile for Distributed Actuators"
-  venue: "2025 IEEE World Haptics Conference (WHC), Hands-On Demo D1-08"
+  venue: "2025 IEEE World Haptics Conference (WHC), Hands-On Demo D1-08, Suwon Convention Center, Suwon, Korea, July 8–11, 2025"
   status: "presented"
   url: ""
 
@@ -145,7 +145,7 @@
   type: "conference"
   authors: "Akihito Noda"
   title: "Demonstration of Asynchronous Serial Communication to Batteryless Modules on Conductive Textile"
-  venue: "2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC), pp. 1–2"
+  venue: "2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC), pp. 1–2, Flamingo Las Vegas, Las Vegas, NV, USA, January 10–13, 2025"
   status: "presented"
   url: "https://doi.org/10.1109/CCNC54725.2025.10976125"
 
@@ -185,7 +185,7 @@
   type: "conference"
   authors: "Akihito Noda"
   title: "Underwater Large-Area Non-Contact Power Transfer Using Two-Dimensional Waveguide"
-  venue: "2024 IEEE 21st Consumer Communications & Networking Conference (CCNC), pp. 1084–1085"
+  venue: "2024 IEEE 21st Consumer Communications & Networking Conference (CCNC), pp. 1084–1085, Flamingo Las Vegas, Las Vegas, NV, USA, January 6–9, 2024"
   status: "presented"
   url: "https://doi.org/10.1109/CCNC51664.2024.10454898"
 
@@ -225,7 +225,7 @@
   type: "conference"
   authors: "野田 聡人"
   title: "導電布二次元伝送路上での多チャンネルアナログ波形の送信"
-  venue: "第23回計測自動制御学会システムインテグレーション部門講演会論文集"
+  venue: "第23回計測自動制御学会システムインテグレーション部門講演会論文集，幕張メッセ国際会議場，千葉市，2022年12月14日–16日"
   status: "presented"
   url: ""
 
