@@ -1,5 +1,12 @@
 - year: 2026
   type: "conference"
+  authors: "Amiri Onuki, Akihito Noda"
+  title: "A Wearable Sensor Array on Conductive Textiles for Body Surface Temperature Mapping"
+  venue: "2026 SICE Festival with Annual Conference, pp. 1–6, Yokohama, Japan, September 14–17, 2026"
+  status: "presented"
+
+- year: 2026
+  type: "conference"
   authors: "Teppei Fukui, Akihito Noda"
   title: "Near-Exceptional-Point Operation via PWM Load Switching in a PT-Symmetry-Based Wearable WPT"
   venue: "2026 IEEE Wireless Power Technology Conference and Expo (WPTCE), pp. 1–6, Dalhousie University, Halifax, Nova Scotia, Canada, July 6–9, 2026"
