@@ -1,4 +1,12 @@
 - year: 2026
+  type: "journal"
+  authors: "Akihito Noda"
+  title: "UART for Wearables (U4We): DC Power and Carrierless Signal Transfer over Conductive Textiles"
+  venue: "IEEE Transactions on Circuits and Systems—II: Express Briefs"
+  status: "published"
+  url: "https://doi.org/10.1109/TCSII.2026.3735640"
+
+- year: 2026
   type: "conference"
   authors: "Amiri Onuki, Akihito Noda"
   title: "A Wearable Sensor Array on Conductive Textiles for Body Surface Temperature Mapping"
