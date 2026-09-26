@@ -1,4 +1,20 @@
 - year: 2026
+  type: "conference"
+  authors: "利武 謙太朗, 野田 聡人"
+  title: "導電布を用いたバッテリーレス分散型カメラシステム"
+  venue: "2026年電子情報通信学会ソサイエティ大会講演論文集, B-15-56, p. 641，北海道大学，札幌市，2026年9月23日–25日"
+  status: "presented"
+  url: ""
+
+- year: 2026
+  type: "conference"
+  authors: "坪田 惟来, 野田 聡人"
+  title: "生体計測専用IC を用いた表面筋電位計測回路の設計"
+  venue: "2026年電子情報通信学会ソサイエティ大会講演論文集, B-19-30, p. 731，北海道大学，札幌市，2026年9月23日–25日"
+  status: "presented"
+  url: ""
+
+- year: 2026
   type: "journal"
   authors: "Riku Maeda, Akihito Noda"
   title: "Protocol-Flexible Custom NFC for Wire-Free Wearable Sensor Networks"
