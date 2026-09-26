@@ -2,7 +2,19 @@
   title: "学生1名が電子情報通信学会ソサイエティ大会で研究成果を発表（@北海道大学, 9/23～25）"
   image: "/assets/images/news/ieice2026s.jpg"
   image_alt: "ソサイエティ大会2026"
+
+- date: 2026-09-22
+  title: "論文1件がIEEE Sensors Lettersに採録"
+  url: "https://doi.org/10.1109/LSENS.2026.3736589"
+  image: "/assets/images/news/NFCSensorTag.gif"
+  image_alt: "Protocol-flexible NFC sensor tag"
   
+- date: 2026-09-21
+  title: "論文1件がIEEE Transactions on Circuits and Systems II: Express Briefsに採録"
+  url: "https://doi.org/10.1109/TCSII.2026.3735640"
+  image: "/assets/images/news/u4we.gif"
+  image_alt: "U4We demo"
+
 - date: 2026-09-15
   title: "学生1名が国際会議SICE FES 2026で研究成果を発表（@パシフィコ横浜, 9/14～17）"
   image: "/assets/images/news/sice2026poster.jpg"
