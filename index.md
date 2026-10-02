@@ -12,6 +12,12 @@ title: Home
   <a class="button" href="{{ '/research/' | relative_url }}">研究内容を見る</a>
 </section>
 
+## 助教（任期付き）を募集しています
+
+https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126090541
+
+https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126090539
+
 ## Research Topics
 
 <div class="grid">
