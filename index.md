@@ -14,9 +14,10 @@ title: Home
 
 ## 助教（任期付き）を募集しています
 
-https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126090541
+<a href="https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126090541">JREC-IN　助教（大学支援研究員）</a>
 
-https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126090539
+<a href="https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126090539">JREC-IN　助教（プロジェクト）</a>
+
 
 ## Research Topics
 
