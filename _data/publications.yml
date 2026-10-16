@@ -1,4 +1,12 @@
 - year: 2026
+  type: "conference"
+  authors: "Akihito Noda"
+  title: "FabricBus: Shared Power and Data for Reconfigurable Wearable Modules"
+  venue: "ACM UbiComp Workshop (Intelligent Soft Wearables), Shanghai International Convention Center (SICC), Shanghai, China, October 11–15, 2026"
+  status: "presented"
+  url: ""
+
+- year: 2026
   type: "journal"
   authors: "Ryusei Miyakawa, Akihito Noda"
   title: "Toward Motion Capture Textiles: A Batteryless IMU Array Powered and Networked Through a Conductive-Fabric Bus"
