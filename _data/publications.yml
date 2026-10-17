@@ -83,7 +83,7 @@
   authors: "Akihito Noda"
   title: "Demonstration of Fabric Deformation Estimation Using a Battery-Free IMU Module Array"
   venue: "2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC), pp. 1–2, Flamingo Las Vegas, Las Vegas, NV, USA, January 9–12, 2026"
-  status: "presented"
+  status: "presented, Best Demo Award"
   url: "https://doi.org/10.1109/CCNC65079.2026.11366564"
 
 - year: 2026
@@ -99,7 +99,7 @@
   authors: "髙木 康陽, 野田 聡人"
   title: "人体表面伝送を想定した2.4GHz帯メタマテリアル導波路および近接カプラ"
   venue: "第26回システムインテグレーション部門講演会（SI2025）, pp. 4484–4488, 3D3-18，広島国際会議場，広島市，2025年12月10日–12日"
-  status: "presented"
+  status: "presented, 優秀講演賞"
   url: ""
 
 - year: 2025
@@ -107,7 +107,7 @@
   authors: "前田 凜空, 野田 聡人"
   title: "衣服上に分布したバッテリレスセンサ用の13.56MHz帯近接通信"
   venue: "第26回システムインテグレーション部門講演会（SI2025）, pp. 4438–4443, 3D3-08，広島国際会議場，広島市，2025年12月10日–12日"
-  status: "presented"
+  status: "presented, 優秀講演賞"
   url: ""
 
 - year: 2025
@@ -115,7 +115,7 @@
   authors: "久家 大輝, 野田 聡人"
   title: "ウェアラブル二次元通信を用いた電力集約における同期制御による集約効率の向上"
   venue: "第26回システムインテグレーション部門講演会（SI2025）, pp. 4424–4428, 3D3-05，広島国際会議場，広島市，2025年12月10日–12日"
-  status: "presented"
+  status: "presented, 優秀講演賞"
   url: ""
 
 - year: 2025
@@ -163,7 +163,7 @@
   authors: "福井 哲平, 野田 聡人"
   title: "ウェアラブルなPT対称無線電力伝送系における最適負荷Q値"
   venue: "電子情報通信学会, no. SRW2025-1, MWPTHz2025-1, pp. 1–6, SRW/MWPTHz 研究会，東京，機械振興会館"
-  status: "published"
+  status: "published, 優秀学生賞"
   url: "https://ken.ieice.org/ken/paper/20250613ucKx/"
 
 - year: 2025
@@ -171,7 +171,7 @@
   authors: "宮川 隆誠, 野田 聡人"
   title: "導電布伝送路で接続した格子配置IMUによる三次元形状計測"
   venue: "電子情報通信学会, no. SRW2025-2, MWPTHz2025-2, pp. 7–11, SRW/MWPTHz 研究会，東京，機械振興会館"
-  status: "published"
+  status: "published, 優秀学生賞"
   url: "https://ken.ieice.org/ken/paper/202506130cKY/"
 
 - year: 2025
