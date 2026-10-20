@@ -22,8 +22,6 @@ students:
     grades:
       - year: "B4"
         count: 3
-      - year: "B3"
-        count: 2
 
 alumni:
   - fiscal_year: 2025
