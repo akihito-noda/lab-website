@@ -10,7 +10,7 @@
   type: "journal"
   authors: "Ryusei Miyakawa, Akihito Noda"
   title: "Toward Motion Capture Textiles: A Batteryless IMU Array Powered and Networked Through a Conductive-Fabric Bus"
-  venue: "IEEE Sensors Letters"
+  venue: "IEEE Sensors Letters, vol. 10, no. 11, article no. 7005504"
   status: "published"
   url: "https://doi.org/10.1109/LSENS.2026.3744423"
 
@@ -26,7 +26,7 @@
   type: "journal"
   authors: "Akihito Noda"
   title: "UART for Wearables (U4We): DC Power and Carrierless Signal Transfer over Conductive Textiles"
-  venue: "IEEE Transactions on Circuits and Systems—II: Express Briefs"
+  venue: "IEEE Transactions on Circuits and Systems—II: Express Briefs, vol. 73, no. 11, pp. 1154-1158"
   status: "published"
   url: "https://doi.org/10.1109/TCSII.2026.3735640"
 
